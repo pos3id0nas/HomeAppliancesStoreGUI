@@ -96,7 +96,6 @@ public class GUIHAS extends JFrame{
         frame.setLocationRelativeTo(null);
         frame.setSize(700, 400);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        //frame.getContentPane().add ()
 
 
 
